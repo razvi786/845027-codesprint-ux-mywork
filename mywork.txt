@@ -1,0 +1,31 @@
+My associate id:
+845027
+
+Other team members:
+845025, 845110, 845111
+
+Team lead:
+845027
+
+My Role in team:
+1. Validate all Input Fields using Validators
+2. Disable the Button until everything is Validated
+3. Integrate code from all team members
+
+My development files:
+1. scripts.js
+2. placeorder.component.ts
+3. placeorder.component.html
+
+I was strong in:
+1. Validations
+2. Angular Reactive Forms
+3. DOM Model
+4. TypeScript
+5. JSON Server
+
+I was weak in:
+1. 
+
+Feedback:
+1. Learnt a lot in this challenge, want to implement more Ideas.
